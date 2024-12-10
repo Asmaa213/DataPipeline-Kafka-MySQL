@@ -25,7 +25,7 @@ This project showcases the development of a real-time data pipeline utilizing Ap
 ```
 Real-Time-Data-Pipeline-Kafka-Python-SQL server -PowerBI/
 |-- dashboard/
-|   |-- real_time_computer_performance.pbix
+|   |-- Real-time Computer Performance Dashboard.pbix
 |-- Main/
 |   |-- consumer.py
 |   |-- data_pipeline.py

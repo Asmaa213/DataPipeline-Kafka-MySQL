@@ -1,9 +1,9 @@
-CREATE DATABASE IF NOT EXISTS system_Performance;
+
 
 
 
 -- use the DATABASE as a DEFAULT DATABASE
-use system_Performance;
+use system_performance;
 
 -- create the TABLE
 create table performance (
@@ -20,7 +20,7 @@ disk_usage numeric(5,2)
 );
 
 
-
+select * from performance;
 
 
 
